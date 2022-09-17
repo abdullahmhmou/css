@@ -1,0 +1,128 @@
+#t{
+     text-align: center;
+     font-size: 50px;
+}
+#a{
+     background-color: rgb(241, 219, 14);
+     width: 300px ;
+     height: 50px ;
+     text-align: center;
+     margin: 0px 0px ;
+}
+#b{
+     background-color: rgb(238, 64, 166);
+     width: 700px;
+     height: 150px;
+     margin: 0px 200px;
+
+}
+#b h1{
+     text-align: center;
+     text-transform: capitalize;
+     font-weight: 500;
+}
+#b p{
+     font-style:oblique;
+     font-size: 20px;
+     padding: 0px 10px;
+}
+#c{
+     background-color: rgb(144, 144, 238);
+     width: 700px;
+     height: 130px;
+     margin: 40px 100px 0px 400px   ;
+}
+#c input{
+     background-color: blue;
+     border-radius: 20px;
+     margin: 0px 350px 0px 350px;
+     color: white;
+     height: 40px;
+     width: 150px;
+     text-align: center;
+     font-size: 18px;
+}
+#c p{
+     font-size: 20px;
+      padding: -40px 0px 0px 0px;
+}
+#e{
+     padding: 0px 0px -50px 0px ;
+     margin: -20px 0px;
+     font-size: 20px;
+}
+#f{
+     width: 700px ;
+     height: 230px;
+     background-color: rgb(41, 12, 58);
+     font-size:18px;
+     margin:0px 0px 0px 600px ;
+
+}
+#u{
+     background-color: aqua;
+     width:600px ;
+     height: 170px;
+     margin: 0px 100px 0px 50px;
+     font-weight: 700;
+}
+#w{
+     background-color: rgb(243, 219, 5);
+     width: 600px ;
+     height: 300px;
+     margin:0px 0px 0px 1000px ;
+}#w p{
+     font-weight: 700;
+     padding: 10px 0px;
+}
+#w table{
+     width: 70%;
+     height: 65%;
+     margin: -20px 40px 10px 90px ;
+}
+nav{
+     background-color: rgb(86, 8, 175);
+     
+     height: 80px;
+     width: 100%;
+}
+label.loge{
+     color: white;
+     font-size: 35px;
+     line-height: 80px;
+     padding: 0 100px;
+     font-weight: bold;
+     font-style: italic ;
+}
+nav img{
+     float: inline-start;
+}
+nav ul{
+     float: right;
+     
+
+}
+nav ul li{
+     display: inline-block;
+     line-height: 80px;
+     margin: 0 5px;
+
+}
+nav ul li a{
+     color: white;
+     font-size: 17px ;
+     text-transform: uppercase;
+     padding: 7px 13px;
+     border-radius: 3px;
+}
+a.active,a:hover{
+     background: #1b9bff;
+     transition: .5s;
+}
+#rr{
+   margin: -35px;
+}
+#ll{
+     margin-left: 10px;
+     text-align: left;
+}
